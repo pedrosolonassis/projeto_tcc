@@ -124,7 +124,7 @@ Como implicação prática, observa-se um cenário de **travamento operacional e
 
 Os dados quantitativos utilizados nesta solução analítica provêm de bases públicas de especialistas em integração regional e dinâmicas político-partidárias europeias:
 
-*   [Chapel Hill Expert Survey (CHES)](https://www.chesdata.eu/ches-europe) — Dataset abrangendo o posicionamento de lideranças partidárias no ecossistema da União Europeia.
+*   [Chapel Hill Expert Survey (CHES)](https://www.chesdata.eu/ches-europe) - Dataset abrangendo o posicionamento de lideranças partidárias no ecossistema da União Europeia.
 *   Dados institucionais de performance macroeleitoral agregados e extraídos diretamente das bases oficiais do *Die Bundeswahlleiterin* (Alemanha) e do *Ministère de l'Intérieur* (França).
 
 O trabalho acadêmico completo está disponível no repositório da UEPB:
@@ -143,7 +143,7 @@ O trabalho acadêmico completo está disponível no repositório da UEPB:
 
 
 ## 📁 Estrutura do Repositório
-'''text
+```text
 PROJETO_TCC/
 │
 ├── codebook/
@@ -204,4 +204,4 @@ PROJETO_TCC/
 │
 ├── .gitignore
 └── README.md
-\'''
+\```
