@@ -14,7 +14,7 @@ O estudo de caso foca no motor macroeconômico e decisório europeu, o **Eixo Fr
 
 ---
 
-## 🛠️ Stack Tecnológica & Ferramentas
+## 🛠️ Stack Tecnológica e Ferramentas
 
 O pipeline de dados foi inteiramente construído utilizando a **Linguagem R**, priorizando a reprodutibilidade do código, eficiência na manipulação e rigor estatístico:
 
@@ -120,7 +120,7 @@ Como implicação prática, observa-se um cenário de **travamento operacional e
 
 ---
 
-## 📜 Fonte dos Dados & Publicação
+## 📜 Fonte dos Dados e Publicação
 
 Os dados quantitativos utilizados nesta solução analítica provêm de bases públicas de especialistas em integração regional e dinâmicas político-partidárias europeias:
 
