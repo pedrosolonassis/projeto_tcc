@@ -6,11 +6,11 @@
 
 ## 📌 Visão Geral do Projeto
 
-Este repositório contém o desenvolvimento completo de uma solução analítica e estatística para mapear, quantificar e mensurar o impacto causal de variáveis político-ideológicas (como autoritarismo, nacionalismo e populismo) sobre o apoio partidário à integração da União Europeia. O projeto é fruto do Trabalho de Conclusão de Curso de Relações Internacionais e pode ser acessado através do [Repositório Institucional da UEPB: A (re)ascensão da ultradireita no eixo franco-alemão](https://repositorio.uepb.edu.br/items/2997a807-720a-4e0e-8d5b-5f969b5bec06)[cite: 2]
+Este repositório contém o desenvolvimento completo de uma solução analítica e estatística para mapear, quantificar e mensurar o impacto causal de variáveis político-ideológicas (como autoritarismo, nacionalismo e populismo) sobre o apoio partidário à integração da União Europeia. O projeto é fruto do Trabalho de Conclusão de Curso de Relações Internacionais e pode ser acessado através do [Repositório Institucional da UEPB: A (re)ascensão da ultradireita no eixo franco-alemão](https://repositorio.uepb.edu.br/items/2997a807-720a-4e0e-8d5b-5f969b5bec06).
 
 O estudo de caso foca no motor macroeconômico e decisório europeu, o **Eixo Franco-Alemão**, analisando a evolução temporal e eleitoral dos partidos **Alternativa para a Alemanha (AfD), da Alemanha** e **Reagrupamento Nacional (RN), da França**, por meio do banco de dados Chapel Hill Expert Survey (CHES), disponibilizado por especialistas da área de integração regional e União Europeia.
 
-> **💡 Abordagem Data Analytics:** Este projeto traduz um cenário geopolítico complexo em um modelo estatístico interpretável, utilizando engenharia de variáveis (Feature Engineering), análise exploratória de dados (EDA) e modelagem econométrica robusta (OLS) para extrair insights preditivos e quantificar relações de causa-efeito[cite: 2].
+> **💡 Abordagem Data Analytics:** Este projeto traduz um cenário geopolítico complexo em um modelo estatístico interpretável, utilizando engenharia de variáveis (Feature Engineering), análise exploratória de dados (EDA) e modelagem econométrica robusta (OLS) para extrair insights preditivos e quantificar relações de causa-efeito.
 
 ---
 
@@ -135,8 +135,8 @@ O trabalho acadêmico completo está disponível no repositório da UEPB:
 
 ## 👨‍💻 Autor
 
-**Pedro Solon Assis Ramelli**[cite: 2]
-<br>Graduado em Relações Internacionais - Universidade Estadual da Paraíba (UEPB)[cite: 2]
+**Pedro Solon Assis Ramelli**
+<br>Graduado em Relações Internacionais - Universidade Estadual da Paraíba (UEPB)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrosolonassis/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:solonpedro21@gmail.com)
