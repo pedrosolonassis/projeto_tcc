@@ -1,16 +1,3 @@
-library(writexl)
-library(readxl)
-
-write_xlsx(dados_errados, 
-           "dados_para_correcao.xlsx")
-
-# Votos da França
-media_2014 <- mean(ue_2014$spec_eu, na.rm = TRUE)
-media_2019 <- mean(ue_2019$spec_eu, na.rm = TRUE)
-media_2024 <- mean(ue_2024$spec_eu, na.rm = TRUE)
-
-df <- read_excel("consulta_cand_2024_PB.xlsx")
-
 #criação do gráfico de votos alemanha
 alevotos_2021_2025 <- data.frame(
   party = c("AfD", "AfD", "CDU", "CDU", "CSU", "CSU", "DL", "DL", "FDP", "FDP", "Grünen", "Grünen", "SPD", "SPD"),
