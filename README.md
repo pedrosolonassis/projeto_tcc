@@ -1,4 +1,4 @@
-# 📊 Pesquisa Quanlitativa-Quantitativa: Determinantes do Euroceticismo no Eixo Franco-Alemão
+# 📊 Pesquisa Qualitativa-Quantitativa: Determinantes do Euroceticismo no Eixo Franco-Alemão
 
 [![R Tool](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![Tidyverse](https://img.shields.io/badge/Tidyverse-🎨-blue?style=for-the-badge)](https://www.tidyverse.org/)
