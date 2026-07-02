@@ -136,7 +136,8 @@ O trabalho acadêmico completo está disponível no repositório da UEPB:
 ## 👨‍💻 Autor
 
 **Pedro Solon Assis Ramelli**
-<br>Graduado em Relações Internacionais - Universidade Estadual da Paraíba (UEPB)
+<br>Bacharel em Relações Internacionais - Universidade Estadual da Paraíba (UEPB)
+<br>Graduando em Ciência da Computação - Centro Universitário UNIPÊ
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrosolonassis/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:solonpedro21@gmail.com)
